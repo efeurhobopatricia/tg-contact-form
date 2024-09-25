@@ -11,12 +11,12 @@
     "BOT_TOKEN": {
       "description": "Your Telegram Bot Token.",
       "required": true,
-      "value": ""
+      "value": "7345381395:AAEO9K4nymAxBHRgD9QpjpS6iH-4i5kvq0A"
     },
     "CHAT_ID": {
       "description": "Your Telegram Chat Id.",
       "required": true,
-      "value": ""
+      "value": "7128227681"
     }
   },
   "formation": {
